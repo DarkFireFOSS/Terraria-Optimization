@@ -1,0 +1,28 @@
+Note: This guide is not including the numerous things you can do with your hardware, software and bios to optimise for a better experience, this is all strictly for Terraria.
+
+Low End
+
+Settings > Video
+Resolution:  your highest monitor resolution, reducing this is the worst case scenario, only proceed if all other optimizations don't fully fix your issue. 
+Go fullscreen and borderless window should be disabled.
+
+Parallax: Shouldn't impact fps on any non-extreme- copium hardware, in an extreme case set to 0%.
+
+Frame Skip: If you can't get a consistent 60fps set it to off or subtle, make sure to expirement, it can cause slow motion effect.
+
+Lighting: 
+Color - Highest performance requirement
+White - Medium to high performance requirement
+Trippy - Medium Performance requirement
+Retro - Lowest performance requirement
+
+Quality: Simple, lowest best for performance, medium is in the middle, high is the worst for performance.
+
+Background: Off for better performance
+
+Blood and Gore: Off for better performance
+
+Miner's Wobble: Off best for performance
+
+Windy environment: Off best for performance
+
