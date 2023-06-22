@@ -1,28 +1,40 @@
 Note: This guide is not including the numerous things you can do with your hardware, software and bios to optimise for a better experience, this is all strictly for Terraria.
 
-Low End
+Settings for Extreme LOW END PC:
+Resolution - Highest and reduce if needed, fullscreen on.
+Parallax - 0
+Frame Skip - On or Subtle
+Lighting - Retro
+Quality - Low
+Background - Off
+Blood and Gore - Off
+Miner's Wobble - Off
+Windy Environment- Off
 
-Settings > Video
-Resolution:  your highest monitor resolution, reducing this is the worst case scenario, only proceed if all other optimizations don't fully fix your issue. 
-Go fullscreen and borderless window should be disabled.
+Mods Section:
+If you are playing on TmodLoader you can better your performance by using any decent lag remover mod, these usually remove many particles and kill far away projectiles
+POTENTIAL IMPROVEMENT: I recommend all those who are not using a resource pack for different/better looks to use Optimizerraria.
+This resourse pack will not change quality but all sprites are optimized to be more lightweight.
+To install this, head to this page https://steamcommunity.com/workshop/filedetails/?id=2447428824 or search for it in the steam workshop, and click "Subscribe".
+After which you will find it in - Terraria Main Menu > Workshop > Use Resource Packs > Enable Optimizerraria
 
-Parallax: Shouldn't impact fps on any non-extreme- copium hardware, in an extreme case set to 0%.
+Explonations:
 
+Resolution - Your highest monitor resolution will look best, reducing this is the worst case scenario, only proceed if all other optimizations don't fully fix your issue. 
+Fullscreen will improve performance over borderless Window.
+Parallax: Shouldn't impact fps on any non-extreme-copium hardware, in an extreme case set to 0%. Otherwise 100% will look best.
 Frame Skip: If you can't get a consistent 60fps set it to off or subtle, make sure to expirement, it can cause slow motion effect.
-
 Lighting: 
-Color - Highest performance requirement
-White - Medium to high performance requirement
-Trippy - Medium Performance requirement
-Retro - Lowest performance requirement
+Color - Highest performance requirement best quality
+White - Medium to high performance requirement 2nd best quality
+Trippy - Medium Performance requirement 2nd worst quality
+Retro - Lowest performance requirement worst quality
+Quality: Simple, lowest best for performance, medium is in the middle, high is the worst for performance. Lowest looks the worst, medium is in the middle, high looks the best.
+Background: Off for better performance, otherwise on
+Blood and Gore: Off for better performance, otherwise on
+Miner's Wobble: Off best for performance, otherwise on
+Windy environment: Off best for performance, otherwise on
 
-Quality: Simple, lowest best for performance, medium is in the middle, high is the worst for performance.
 
-Background: Off for better performance
 
-Blood and Gore: Off for better performance
-
-Miner's Wobble: Off best for performance
-
-Windy environment: Off best for performance
 
