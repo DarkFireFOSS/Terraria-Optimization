@@ -1,6 +1,6 @@
 Note: This guide is not including the numerous things you can do with your hardware, software and bios to optimise for a better experience, this is all strictly for Terraria.
 
-Settings for Extreme LOW END PC:
+Settings for Extremely LOW END PC:
 Resolution - Highest and reduce if needed, fullscreen on.
 Parallax - 0
 Frame Skip - On or Subtle
@@ -11,12 +11,30 @@ Blood and Gore - Off
 Miner's Wobble - Off
 Windy Environment- Off
 
-Mods Section:
-If you are playing on TmodLoader you can better your performance by using any decent lag remover mod, these usually remove many particles and kill far away projectiles
+Mods:
+If you are playing on TmodLoader you can better your performance by using any decent lag remover mod, these usually remove many particles and kill far away projectiles.
+A good one i found is called "Clientside Lag Prevention" so you can give this a try, after you load into your world with it, go into config and configure it for your needs.
+
 POTENTIAL IMPROVEMENT: I recommend all those who are not using a resource pack for different/better looks to use Optimizerraria.
 This resourse pack will not change quality but all sprites are optimized to be more lightweight.
 To install this, head to this page https://steamcommunity.com/workshop/filedetails/?id=2447428824 or search for it in the steam workshop, and click "Subscribe".
 After which you will find it in - Terraria Main Menu > Workshop > Use Resource Packs > Enable Optimizerraria
+
+Settings for MAXIMUM Beauty:
+Resolution - Highest and fullscreen on. 
+Parallax - 100 
+Lighting - Color
+Quality - High
+Background - On
+Blood and Gore - On
+Miner's Wobble - Enabled
+Windy Environment - Enabled
+
+Resource Packs:
+There are many resource packs you can find in the workshop or what i did is watched youtube videos showcasing different texture packs and picked the one i like most.
+These will usually massively change textures for the better and the different providing a unique and new experience.
+I personally use "Calamity Texture Pack" when playing calamity, "Custom Fonts (Cabin)"
+
 
 Explonations:
 
