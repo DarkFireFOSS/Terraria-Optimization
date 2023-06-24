@@ -3,7 +3,7 @@ Note: This guide is not including the numerous things you can do with your hardw
 Settings for Extremely LOW END PC:
 Resolution - Highest and reduce if needed, fullscreen on.
 Parallax - 0
-Frame Skip - On or Subtle
+Frame Skip - On or Subtle or Off (Read Explonation)
 Lighting - Retro
 Quality - Low
 Background - Off
@@ -20,9 +20,10 @@ This resourse pack will not change quality but all sprites are optimized to be m
 To install this, head to this page https://steamcommunity.com/workshop/filedetails/?id=2447428824 or search for it in the steam workshop, and click "Subscribe".
 After which you will find it in - Terraria Main Menu > Workshop > Use Resource Packs > Enable Optimizerraria
 
-Settings for MAXIMUM Beauty:
+Settings for MAXIMUM Quality:
 Resolution - Highest and fullscreen on. 
 Parallax - 100 
+Frame Skip - Off
 Lighting - Color
 Quality - High
 Background - On
@@ -41,7 +42,8 @@ Explonations:
 Resolution - Your highest monitor resolution will look best, reducing this is the worst case scenario, only proceed if all other optimizations don't fully fix your issue. 
 Fullscreen will improve performance over borderless Window.
 Parallax: Shouldn't impact fps on any non-extreme-copium hardware, in an extreme case set to 0%. Otherwise 100% will look best.
-Frame Skip: If you can't get a consistent 60fps set it to off or subtle, make sure to expirement, it can cause slow motion effect.
+Frame Skip: If you can't get a consistent 60fps set it to off or subtle, make sure to expirement, it can cause slow motion effect. 
+From my testing it seems that turning frame skip Off will uncap the game from 60fps and cap it to your monitors refresh rate. This is brilliant for anyone with a monitor over 60hz
 Lighting: 
 Color - Highest performance requirement best quality
 White - Medium to high performance requirement 2nd best quality
