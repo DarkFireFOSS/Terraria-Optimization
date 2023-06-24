@@ -8,12 +8,16 @@ Lighting - Retro
 Quality - Low
 Background - Off
 Blood and Gore - Off
-Miner's Wobble - Off
+Miner's Wobble - On
 Windy Environment- Off
 
-Mods:
+Mods for Performance
 If you are playing on TmodLoader you can better your performance by using any decent lag remover mod, these usually remove many particles and kill far away projectiles.
 A good one i found is called "Clientside Lag Prevention" so you can give this a try, after you load into your world with it, go into config and configure it for your needs.
+
+Mods for Quality - These are all the mods that i recommend and are fully stable together from my testing, if you find any more feel free to expirement with them. None of these mods change game balance or mechanics
+Terraria Ambience, Improved Movement Visuals, CoolerItemVisualEffect, BetterBlending, FancyLighting, Lights And Shadow
+
 
 POTENTIAL IMPROVEMENT: I recommend all those who are not using a resource pack for different/better looks to use Optimizerraria.
 This resourse pack will not change quality but all sprites are optimized to be more lightweight.
@@ -51,9 +55,9 @@ Trippy - Medium Performance requirement 2nd worst quality
 Retro - Lowest performance requirement worst quality
 Quality: Simple, lowest best for performance, medium is in the middle, high is the worst for performance. Lowest looks the worst, medium is in the middle, high looks the best.
 Background: Off for better performance, otherwise on
-Blood and Gore: Off for better performance, otherwise on
-Miner's Wobble: Off best for performance, otherwise on
-Windy environment: Off best for performance, otherwise on
+Blood and Gore: Removes blood and gore effects. Off for very slightly better performance if needed, Otherwise On
+Miner's Wobble: Shouldn't have any performance impact, just a little effect when mining a block. Keep On
+Windy environment: Adds wind effects, off if performance really needed, other wise on
 
 
 
