@@ -53,12 +53,8 @@ Color - Highest performance requirement best quality
 White - Medium to high performance requirement 2nd best quality
 Trippy - Medium Performance requirement 2nd worst quality
 Retro - Lowest performance requirement worst quality
-Quality: Simple, lowest best for performance, medium is in the middle, high is the worst for performance. Lowest looks the worst, medium is in the middle, high looks the best.
-Background: Off for better performance, otherwise on
-Blood and Gore: Removes blood and gore effects. Off for very slightly better performance if needed, Otherwise On
-Miner's Wobble: Shouldn't have any performance impact, just a little effect when mining a block. Keep On
-Windy environment: Adds wind effects, off if performance really needed, other wise on
-
-
-
-
+Quality: Simple, lowest best for performance, medium is in the middle, high is the worst for performance. Lowest looks the worst, medium is in the middle, high looks the best. High Performance Impact
+Background: Off for better performance, otherwise on. Moderate Performance Impact
+Blood and Gore: Removes blood and gore effects. Little Performance Impact
+Miner's Wobble: Shouldn't have any performance impact, just a little effect when mining a block. Little Performance Impact
+Windy environment: Adds wind effects, including that in sandstorms. Moderate Performance Impact
